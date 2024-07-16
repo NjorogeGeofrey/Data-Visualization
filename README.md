@@ -3,7 +3,7 @@
 
 ## Description
 
-This project involves data visualization using Python. The goal is to provide insightful visualizations for a given dataset to help understand patterns and trends.
+This project involves data visualization using Python.
 
 ## Installation
 
