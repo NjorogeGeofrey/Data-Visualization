@@ -27,7 +27,7 @@ pip install pandas numpy matplotlib
 
 ## Data
 
-The data used in this project is embedded within the notebook. It includes columns such as `X`, `Y`, `month`, `day`, `FFMC`, `DMC`, `DC`, `ISI`, `temp`, `RH`, `wind`, `rain`, and `area`.
+The data used in this project are all generated in python
 
 ## Visualizations
 
